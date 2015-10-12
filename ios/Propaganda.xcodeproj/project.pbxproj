@@ -65,7 +65,7 @@
 		45AB7325141FC0B1003524C3 /* ThumbsViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 45AB7312141FC0B1003524C3 /* ThumbsViewController.m */; };
 		45BD5AFE13AE721A00D6FE97 /* MessageUI.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 45BD5AFD13AE721A00D6FE97 /* MessageUI.framework */; };
 		45D5ADA31610EADD00706B9A /* PropagandaDocumentOutline.m in Sources */ = {isa = PBXBuildFile; fileRef = 45D5ADA21610EADC00706B9A /* PropagandaDocumentOutline.m */; };
-		485EC8C21BCC6702007A2549 /* Bernays_Propaganda_in_english_.pdf in Resources */ = {isa = PBXBuildFile; fileRef = 485EC8C11BCC6702007A2549 /* Bernays_Propaganda_in_english_.pdf */; settings = {ASSET_TAGS = (); }; };
+		485864901BCC6AEE00E7C239 /* Propaganda(1928) by Edward L. Bernays.pdf in Resources */ = {isa = PBXBuildFile; fileRef = 4858648F1BCC6AEE00E7C239 /* Propaganda(1928) by Edward L. Bernays.pdf */; settings = {ASSET_TAGS = (); }; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -159,7 +159,7 @@
 		45D5AD9E1610E66B00706B9A /* HISTORY.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = HISTORY.md; sourceTree = "<group>"; };
 		45D5ADA11610EADC00706B9A /* PropagandaDocumentOutline.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = PropagandaDocumentOutline.h; path = Sources/PropagandaDocumentOutline.h; sourceTree = "<group>"; };
 		45D5ADA21610EADC00706B9A /* PropagandaDocumentOutline.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = PropagandaDocumentOutline.m; path = Sources/PropagandaDocumentOutline.m; sourceTree = "<group>"; };
-		485EC8C11BCC6702007A2549 /* Bernays_Propaganda_in_english_.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; name = Bernays_Propaganda_in_english_.pdf; path = ../Bernays_Propaganda_in_english_.pdf; sourceTree = "<group>"; };
+		4858648F1BCC6AEE00E7C239 /* Propaganda(1928) by Edward L. Bernays.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; name = "Propaganda(1928) by Edward L. Bernays.pdf"; path = "../Propaganda(1928) by Edward L. Bernays.pdf"; sourceTree = "<group>"; };
 		8D1107310486CEB800E47090 /* Propaganda-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "Propaganda-Info.plist"; plistStructureDefinitionIdentifier = "com.apple.xcode.plist.structure-definition.iphone.info-plist"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -229,7 +229,7 @@
 		29B97317FDCFA39411CA2CEA /* Resources */ = {
 			isa = PBXGroup;
 			children = (
-				485EC8C11BCC6702007A2549 /* Bernays_Propaganda_in_english_.pdf */,
+				4858648F1BCC6AEE00E7C239 /* Propaganda(1928) by Edward L. Bernays.pdf */,
 				4541A9D7122EA716001A5E60 /* Localizable.strings */,
 				45AB72DF141FC04B003524C3 /* README.md */,
 				45D5AD9E1610E66B00706B9A /* HISTORY.md */,
@@ -430,8 +430,8 @@
 				45AB72CF141FBFCA003524C3 /* Propaganda-Print.png in Resources */,
 				45AB72D0141FBFCA003524C3 /* Propaganda-Print@2x.png in Resources */,
 				45699AB41A321F6100808606 /* Default-736h@3x.png in Resources */,
-				485EC8C21BCC6702007A2549 /* Bernays_Propaganda_in_english_.pdf in Resources */,
 				45AB72D1141FBFCA003524C3 /* Propaganda-Thumbs.png in Resources */,
+				485864901BCC6AEE00E7C239 /* Propaganda(1928) by Edward L. Bernays.pdf in Resources */,
 				45AB72D2141FBFCA003524C3 /* Propaganda-Thumbs@2x.png in Resources */,
 				4521AB4019C5EE6000B16688 /* Propaganda-Export@2x.png in Resources */,
 				4513ACFB19C4A1FB004916D1 /* AppIcon-180.png in Resources */,
